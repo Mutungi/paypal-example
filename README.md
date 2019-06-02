@@ -1,6 +1,6 @@
 # Example PayPal Integration with PHP and MySQL
 
-The code in this repository is from our blog post [How to Set Up PayPal Integration with PHP & MySQL](https://www.evoluted.net/thinktank/web-development/paypal-php-integration).
+The code in this repository is from our blog post [How to Set Up PayPal Integration with PHP & MySQL](https://codingkulture.com/2019/06/02/how-to-set-up-paypal-intergration-with-php-mysql/).
 
 * index.html - contains the form for making a payment
 * payments.php - contains the request/response code for the payment
